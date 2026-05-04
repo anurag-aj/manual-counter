@@ -17,3 +17,6 @@ A simple counter app built using HTML, CSS, and JavaScript.
 - DOM manipulation
 - Event handling
 - Class toggling
+
+## 🔗 Live Demo
+https://anurag-aj.github.io/manual-counter/
