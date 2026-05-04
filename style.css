@@ -1,0 +1,25 @@
+body{
+            display: flex;
+            text-align: center;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+        }
+        .box{
+            border:1px solid;
+            padding: 40px;
+            border-radius: 10%;
+            background-color: #6fa3b0;
+        }
+        p{
+            color: red;
+        }
+        .high{
+            color:green;
+        }
+        .high10{
+            color:rgba(224, 109, 47, 0.846);
+        }
+        .hide{
+            display: none !important;
+        }
